@@ -1,0 +1,8 @@
+@charset "UTF-8";
+caption { font-size: 30px; line-height: 160%;  font-weight: bold; }
+body { background-color: #ffffea; }
+table { width: 90%; background-color: #E0FF8B; }
+th { text-align: center; color: white; background-color: green;  }
+td { background-color: #FAE0D4; }
+th, td { padding: 15px; }
+#err { color: red; font-weight: bold; }
